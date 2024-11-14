@@ -28,6 +28,26 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/breezy/Documents/breezy/Visual Studio/Anime-1/AnimeMvc/Views/Anime/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWUvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/breezy/Documents/breezy/Visual Studio/Anime-1/AnimeMvc/Views/Anime/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWUvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/breezy/Documents/breezy/Visual Studio/Anime-1/AnimeMvc/Views/Anime/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWUvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/breezy/Documents/breezy/Visual Studio/Anime-1/AnimeMvc/Views/Anime/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWUvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/breezy/Documents/breezy/Visual Studio/Anime-1/AnimeMvc/Views/Anime/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/breezy/Documents/breezy/Visual Studio/Anime-1/AnimeMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
