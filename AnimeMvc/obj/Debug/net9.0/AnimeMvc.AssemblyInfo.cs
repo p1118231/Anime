@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimeMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db4e8d35e2903e1e4cd39fe510f1c103a9ecf414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4622148662f0e5844c73da251dfeaff6c6226d3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimeMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimeMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
